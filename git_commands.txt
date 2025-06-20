@@ -1,0 +1,36 @@
+ 5 git init
+   6 dir -s
+   7 dir -a
+   8 dir
+   9  git status
+  10 git status
+  11 git add .
+  12 git status
+  13 git -rm testing.py
+  14 gi commit - m "Added testing.py"
+  15 git commit - m "Added testing.py"
+  16 git add .
+  17 git commit - m "Added testing.py"
+  18 git commit - m "Added testing.py"
+  19 git init\
+  20 git init
+  21 git init
+  22 git commit - m "Added testing.py"
+  23 git commit - m "Added testing.py"
+  24 git push-m origin master
+  25 git push -u  origin master
+  26 git status
+  27 git rm --cached testing.py
+  28 rm testing.py
+  29 git status
+  30 git status
+  31 git add .
+  32 git commit -m ""
+  33 git commit -m "Adding"
+  34 rm  testing.py
+  35 git status
+  36 git restore testing.py
+  37 git status
+  38 git status
+  39 git s
+  40 git show
