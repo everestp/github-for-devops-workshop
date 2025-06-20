@@ -41,3 +41,5 @@
   49 git status
   50 git push origin master
   51 git history
+
+  this is the some new changes
