@@ -34,3 +34,10 @@
   38 git status
   39 git s
   40 git show
+  git commit -m "Added git command"
+  46 git status
+  47 git remote add origin https://github.com/everestp/github-for-devops... 
+  48 git remote -v
+  49 git status
+  50 git push origin master
+  51 git history
